@@ -16,7 +16,9 @@ body{
 }
 .download-button{
     margin: 5% 3% 5% 0;
+    
 }
+
 .PhoneImage{
     width:60%;
     transform: rotate(25deg);
@@ -38,14 +40,19 @@ h2{
     font-family:"Montserrat-bold";
     font-size: 2rem;
     line-height: 1.5;
-    padding-bottom: 2rem;
+    padding-top: 1rem;
+    text-align: center;
 }
 h3{
     font-family: "Montserrat-bold";
     font-weight: bolder;
+
 }
 p{
     color: gray;
+    text-align: center;
+    font-weight: bolder;
+    padding: 2% 5%;
 }
 #features{
     padding: 7% 15%;
